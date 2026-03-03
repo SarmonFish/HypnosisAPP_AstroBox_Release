@@ -1,0 +1,66 @@
+{
+  "item": {
+    "id": "com.sarmon.hypnosisapp",
+    "restype": "quick_app",
+    "name": "HypnosisAPP",
+    "description": "HypnosisAPP 是一款催眠动画模拟应用，提供多种催眠动画效果和丰富的自定义选项。应用支持用户完全自定义视觉效果，包括圆环粗细、扩散间隔、背景和圆环颜色，打造专属的视觉体验。",
+    "preview": [
+      "redmi_watch-2026-03-04-00-48-13.png",
+      "xiaomi_band_10-2026-03-04-01-09-39.png",
+      "xiaomi_s4-2026-03-04-00-48-18.png",
+      "xiaomi_band_pro-2026-03-04-00-50-52.png"
+    ],
+    "icon": "logo192.png",
+    "cover": "cover.png",
+    "author": [
+      {
+        "name": "沙文鱼Sarmon",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "HypnosisAPPr1_0.rpk"
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "HypnosisAPPr1_0.rpk"
+    },
+    "xmws3": {
+      "version": "1.0.0",
+      "file_name": "HypnosisAPPr1_0.rpk"
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "HypnosisAPPr1_0.rpk"
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "HypnosisAPPr1_0.rpk"
+    },
+    "xmws4": {
+      "version": "1.0.0",
+      "file_name": "HypnosisAPPr1_0.rpk"
+    },
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "HypnosisAPPr1_0.rpk"
+    },
+    "xmws4xring": {
+      "version": "1.0.0",
+      "file_name": "HypnosisAPPr1_0.rpk"
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "HypnosisAPPr1_0.rpk"
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "HypnosisAPPr1_0.rpk"
+    }
+  },
+  "ext": {}
+}
